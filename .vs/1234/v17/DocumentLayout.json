@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivj1\\source\\repos\\1234\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|C:\\Users\\jivj1\\source\\repos\\1234\\1234\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|solutionrelative:1234\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|c:\\users\\jivj1\\source\\repos\\1234\\1234\\publicaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|solutionrelative:1234\\publicaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|C:\\Users\\jivj1\\source\\repos\\1234\\1234\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|solutionrelative:1234\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|C:\\Users\\jivj1\\source\\repos\\1234\\1234\\publicaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{623C512D-5ED2-415E-A1AC-B650638F2A52}|1234\\1234.vbproj|solutionrelative:1234\\publicaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Form1.vb",
+              "RelativeDocumentMoniker": "1234\\Form1.vb",
+              "ToolTip": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Form1.vb",
+              "RelativeToolTip": "1234\\Form1.vb",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAMwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T00:35:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publicaciones.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Publicaciones.vb",
+              "RelativeDocumentMoniker": "1234\\Publicaciones.vb",
+              "ToolTip": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Publicaciones.vb [Dise\u00F1o]",
+              "RelativeToolTip": "1234\\Publicaciones.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T04:54:47.69Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Form1.vb",
+              "RelativeDocumentMoniker": "1234\\Form1.vb",
+              "ToolTip": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "1234\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T04:32:39.506Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publicaciones.vb",
+              "DocumentMoniker": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Publicaciones.vb",
+              "RelativeDocumentMoniker": "1234\\Publicaciones.vb",
+              "ToolTip": "C:\\Users\\jivj1\\source\\repos\\1234\\1234\\Publicaciones.vb",
+              "RelativeToolTip": "1234\\Publicaciones.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T05:08:47.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

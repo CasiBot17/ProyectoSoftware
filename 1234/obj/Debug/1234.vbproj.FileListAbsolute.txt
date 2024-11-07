@@ -1,0 +1,14 @@
+C:\Users\jivj1\source\repos\1234\1234\bin\Debug\1234.exe.config
+C:\Users\jivj1\source\repos\1234\1234\bin\Debug\1234.exe
+C:\Users\jivj1\source\repos\1234\1234\bin\Debug\1234.pdb
+C:\Users\jivj1\source\repos\1234\1234\bin\Debug\1234.xml
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.vbproj.AssemblyReference.cache
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\_1234.Form1.resources
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\_1234.Resources.resources
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.vbproj.GenerateResource.cache
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.vbproj.CoreCompileInputs.cache
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.exe
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.xml
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\1234.pdb
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\_1234.Estudiante.resources
+C:\Users\jivj1\source\repos\1234\1234\obj\Debug\_1234.Publicaciones.resources
